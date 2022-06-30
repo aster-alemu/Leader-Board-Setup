@@ -1,6 +1,6 @@
 # Leader-Board-Setup
 
-> this project is about a Leaderboard structure
+> This project is about a Leaderboard structure with git flow
 
 ## Getting Started
 
